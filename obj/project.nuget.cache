@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDomCGNQYS6NdNRe9jb71xGUvP+roi5UnPpNiplLQElsv5GdxHle7fOlugdnGt2M+B3UrOEmckPzu0CjUC61LQ==",
+  "success": true,
+  "projectFilePath": "/home/trouble/HTB/visual/fakedotnet/fakedotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/trouble/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/trouble/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/trouble/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
